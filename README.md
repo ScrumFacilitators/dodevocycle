@@ -1,5 +1,9 @@
-# dodevocycle
-The home of the DoD EvoCycle
+# DoD EvoCycle
+The DoD EvoCucle, a Simple Technique to Effectively Manage your Definition of "Done"
+
+# How to use it?
+This blog explains how to use the DoD EvoCycle in great details.
+https://www.scrum.org/resources/blog/dod-evocycle-20-simple-technique-effectively-manage-your-definition-done
 
 ## License
 
